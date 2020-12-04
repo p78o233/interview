@@ -1,0 +1,8 @@
+# Project exclude paths
+/jfinal-backend/target/
+.idea/
+/jfinal-backend/jfinal-backend.iml
+jfinal-blank-project.iml
+
+# Project exclude paths
+/backend/target/
